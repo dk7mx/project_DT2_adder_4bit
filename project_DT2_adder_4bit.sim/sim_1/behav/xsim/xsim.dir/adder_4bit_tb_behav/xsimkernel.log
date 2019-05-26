@@ -2,3 +2,6 @@ Running: xsim.dir/adder_4bit_tb_behav/xsimk.exe -simmode gui -wdb adder_4bit_tb_
 Design successfully loaded
 Design Loading Memory Usage: 5016 KB (Peak: 5016 KB)
 Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 5604 KB (Peak: 5604 KB)
+Simulation CPU Usage: 77 ms
